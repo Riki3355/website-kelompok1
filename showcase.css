@@ -1,0 +1,20 @@
+header{
+	background-color: black;
+	padding: 200px;
+	text-align: center;
+}
+header h2{
+	color: white;
+	margin-top: -150px;
+}
+.fa-images{
+
+	font-size: 50px;
+	color: green;
+	text-align: center;
+}
+.fa-facebook{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
